@@ -19,3 +19,6 @@ read
 open
 close
 ```
+
+## Example
+An example call and test for the function `myReadline` can be found in main.c. Feel free to change READLINE_READ_SIZE number to any number you would like.
